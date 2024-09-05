@@ -20,6 +20,9 @@
 - <b>GetX Storage Functionality:</b> Integration of GetX for efficient state management and storage, providing a reactive and powerful architecture for Flutter apps.
 
 <hr>
+<h1 align="center">Folder Structure 📱</h1>
+
+![Screenshot 2024-09-05 225418](https://github.com/user-attachments/assets/0998bc1a-2dcb-4d98-b519-f900727e9032)
 
 <h1 align="center">How to Use 🤔</h1>
 
